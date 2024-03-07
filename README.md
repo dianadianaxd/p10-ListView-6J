@@ -17,3 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Resultado
+- ![image](https://github.com/dianadianaxd/p10-ListaCard-6J/assets/159160020/9dd20c94-db33-4d33-b11c-ebab06c5c60d)
+
+  ## Links de apoyo
+  - https://codesinsider.com/flutter-listview-example/?expand_article=1
+  - https://github.com/nava128/Edit-Github-Nava.git
